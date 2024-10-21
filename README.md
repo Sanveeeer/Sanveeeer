@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanveer
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS & JS
+- 👀 I’m a frontend dev
+- 🌱 I’m currently learning React
 
 <!---
 Sanveeeer/Sanveeeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
