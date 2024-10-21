@@ -1,4 +1,5 @@
 # 💫 About Me:
+👋🏽 Hi, I'm Sanveer!
 🔎 Currently looking for frontend roles
 
 
