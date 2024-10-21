@@ -1,9 +1,7 @@
 # 💫 About Me:
 hi im san
-sasa
-asas
 
-as
+u srunk
 
 
 ## 🌐 Socials:
