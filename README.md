@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanveer
+Hi, I’m @Sanveer
 - 👀 I’m a frontend dev
 - 🌱 I’m currently learning React
 
