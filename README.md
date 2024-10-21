@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋🏽 Hi, I'm Sanveer!
-🔎 Currently looking for frontend roles
+hi im san
+sasa
+asas
+
+as
 
 
 ## 🌐 Socials:
