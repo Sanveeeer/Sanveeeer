@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋🏽 Hi I'm Sanveer!  
-🧑🏽‍💻 Studied Computer Science at university.
+🧑🏽‍💻 Studied Computer Science at university.  
 🔎 Currently looking for a new role.
 
 ## 🌐 Socials:
