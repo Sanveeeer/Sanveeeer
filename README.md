@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋🏽 Hi I'm Sanveer!  
-🧑🏽‍💻 Studied Computer Science at university  
-🔎 Currently looking for frontend roles
+🧑🏽‍💻 Studied Computer Science at university.
+🔎 Currently looking for a new role.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanveer-singh-/) 
